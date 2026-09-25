@@ -7,4 +7,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-# Sitemap is generated after the verified production URL is configured.
+Sitemap: https://aarvi-consultants.onrender.com/sitemap.xml
