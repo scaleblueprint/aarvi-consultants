@@ -7,4 +7,8 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
+# Publisher preference for Gemini Apps grounding and model improvement.
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://aarvi-consultants.onrender.com/sitemap.xml
